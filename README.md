@@ -7,7 +7,7 @@
 
 
 ## How to install
-
+```bash
 1. Clone or download this repo into a folder.
 1. Go to chrome://extensions
 2. Make sure **Developer mode** (in the upper right corner) is ON.
@@ -15,3 +15,4 @@
 4. Open Spotify Web and open chrome `Options > More Tools > Create Shortcut...`
 5. Check `Open as window` & hit Create
 6. Open Spotify as App
+```
